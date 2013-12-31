@@ -1,0 +1,12 @@
+---
+title: Tim Conway's Game of Life in CoffeeScript
+body_class: index
+---
+
+%form#world_form
+  %fieldset
+    %legend Conway Game of Life
+    %label{:for => "world_size"} World size
+    %input#world_size{:name => "world_size", :type => "text"}/
+    
+%table{id: 'world'}

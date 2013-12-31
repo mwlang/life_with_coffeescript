@@ -1,0 +1,15 @@
+table#world {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
+table#world td {
+  border: 1px solid #eee;
+  font-size: 0.5em;
+  width: 0.5em;
+  height: 0.5em;
+}
+
+.alive {
+  background-color: red;
+}
