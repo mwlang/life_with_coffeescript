@@ -4,7 +4,8 @@ Inspired by a [Jonathan Wallace](https://github.com/wallace)'s invite to a local
 where the gathered developers were going to focus on Tim Conway's Game of Life, I decided to embark on a self-study of CoffeeScript where 
 my skills are relatively weak.
 
-This is the results of my implementing the Game of Life in CoffeeScript and you'll find the code directly in source/javascripts/game.js.coffeescript
+This is the results of my implementing the Game of Life in CoffeeScript and you'll find the code directly in source/javascripts/game.js.coffeescript 
+and you can read more about the code and effort [with this blog post](http://ramblings.gibberishcode.net/archives/conways-game-of-life-in-coffeescript/125)
 
 This project was implemented with [Middleman 3.x](http://middlemanapp.com/) in a Ruby 2.0 development environment.  Follow the Middleman Getting Started 
 guide to install Middleman then launch the app with:
