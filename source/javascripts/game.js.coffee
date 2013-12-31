@@ -1,6 +1,4 @@
 $ ->
-  console.debug("loading game...")
-  $currentGeneration = null
   $worldSize = null
   $worldRange = null
   $cells = null
@@ -71,4 +69,3 @@ $ ->
     neighbors
     
   resize_world()
-  console.debug("game loaded!")
