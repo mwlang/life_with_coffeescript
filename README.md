@@ -1,6 +1,6 @@
 # Tim Conway's Game of Life in CoffeeScript
 
-Being inspired by a fellow developer's invite, [Jonathan Wallace](https://github.com/wallace), to a local [Code Retreat](http://coderetreat.org/about) that I could not attend
+Inspired by a [Jonathan Wallace](https://github.com/wallace)'s invite to a local [Code Retreat](http://coderetreat.org/about) (that I could not attend)
 where the gathered developers were going to focus on Tim Conway's Game of Life, I decided to embark on a self-study of CoffeeScript where 
 my skills are relatively weak.
 
