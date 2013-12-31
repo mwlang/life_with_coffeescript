@@ -8,7 +8,8 @@ This is the results of my implementing the Game of Life in CoffeeScript and you'
 
 This project was implemented with [Middleman 3.x](http://middlemanapp.com/) in a Ruby 2.0 development environment.  Follow the Middleman Getting Started 
 guide to install Middleman then launch the app with:
-```middleman server```
+
+  ```middleman server```
 
 ---
 
