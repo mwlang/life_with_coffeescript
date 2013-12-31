@@ -1,34 +1,20 @@
-# Middleman Template with Haml, Sass & Coffeescript
+# Tim Conway's Game of Life in CoffeeScript
 
-**middleman-hamlsasscoffee** is a [Middleman 3.x](http://middlemanapp.com/) project template with [Compass](http://compass-style.org)/[SASS](http://sass-lang.com/), [HAML](http://haml-lang.com/) and [Coffeescript](http://coffeescript.org). As with all Middleman templates, using [Bundler](http://gembundler.com/) and [Rbenv](https://github.com/sstephenson/rbenv/) is recommended.
+Being inspired by a fellow developer's invite to a local [Code Retreat](http://coderetreat.org/about) that I could not attend
+where the gathered developers were going to focus on Tim Conway's Game of Life, I decided to embark on a self-study of CoffeeScript where 
+my skills are relatively weak.
 
-###Features###
-* Optimized asset structure
-* Conditional IE html tags
-* Viewport meta setup for iOS and Android
-* Favicon and app icons
-* Dynamic title attribute body class via YAML front-matter
+This is the results of my implementing the Game of Life in CoffeeScript and you'll find the code directly in source/javascripts/game.js.coffeescript
 
-###Includes###
-* Modernizr 2.6.2 via cdnjs.com
-* jQuery 2.0.3 via cdnjs.com
-* Google Analytics (async)
-
-### Installation ###
- 
-Clone **middleman-hamlsasscoffee** into `~/.middleman`. You will need to create this directory if it doesn't exist.
-```$ git clone git://github.com/pixelsonly/middleman-hamlsasscoffee.git ~/.middleman/middleman-hamlsasscoffee```
-
-Initialize middleman on a new or existing folder `$ middleman init path_to_project --template=middleman-hamlsasscoffee`
-
-
-For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/) or feel free to hit me up on [Twitter](http://twitter.com/pixelsonly).
+This project was implemented with [Middleman 3.x](http://middlemanapp.com/) in a Ruby 2.0 development environment.  Follow the Middleman Getting Started 
+guide to install Middleman then launch the app with:
+```middleman server```
 
 ---
 
 ##### LICENSE #####
 
-Copyright (c) 2013 Ryan Lindsey
+Copyright (c) 2013 Michael Lang
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
